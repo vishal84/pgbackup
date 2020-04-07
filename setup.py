@@ -4,7 +4,7 @@ with open('README.md', 'r') as f:
     long_description = f.read()
 
 setup(
-    name='pgpackup',
+    name='pgbackup',
     version='0.1.0',
     author='Keith Thompson',
     author_email='keith@linuxacademy.com',
