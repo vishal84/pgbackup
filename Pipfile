@@ -8,6 +8,7 @@ pylint = "*"
 
 [packages]
 boto3 = "*"
+pgbackup = {editable = true,path = "."}
 
 [requires]
 python_version = "3.7"

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c60b69ff1f89067b2e7b18d76f456652ab8eb2f0db7636407852d62d743ec54b"
+            "sha256": "6305516bf7f815afc25646b871b9d049120a0d4235b7f552cafef94fea46e136"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -45,6 +45,10 @@
                 "sha256:cca55c8d153173e21baa59983015ad0daf603f9cb799904ff057bfb8ff8dc2d9"
             ],
             "version": "==0.9.5"
+        },
+        "pgbackup": {
+            "editable": true,
+            "path": "."
         },
         "python-dateutil": {
             "hashes": [
